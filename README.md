@@ -34,12 +34,10 @@ The GPT-reasoning framework serves as the core element of AccidentGPT's function
 
 ## Cite
 ```
-@misc{wang2023accidentgpt,
-    title={AccidentGPT: Accident analysis and prevention from V2X Environmental Perception with Multi-modal Large Model},
-    author={Lening Wang and Han Jiang and Pinlong Cai and Daocheng Fu and Tianqi Wang and Zhiyong Cui and Yilong Ren and Haiyang Yu and Xuesong Wang and Yinhai Wang},
-    year={2023},
-    eprint={2312.13156},
-    archivePrefix={arXiv},
-    primaryClass={cs.CE}
+@article{wang2023accidentgpt,
+  title={AccidentGPT: Accident analysis and prevention from V2X Environmental Perception with Multi-modal Large Model},
+  author={Wang, Lening and Jiang, Han and Cai, Pinlong and Fu, Daocheng and Wang, Tianqi and Cui, Zhiyong and Ren, Yilong and Yu, Haiyang and Wang, Xuesong and Wang, Yinhai},
+  journal={arXiv preprint arXiv:2312.13156},
+  year={2023}
 }
 ```
